@@ -263,7 +263,7 @@ For this milestone, you will need to design and develop a game that meets the fo
   - Document design patterns and OOP principles if needed.
   - Create README
   
-- **eFinal Polish & Testing** (1 BCP)
+- **eFinal Polish & Testing**
   - Test all game features
   - Verify all technical requirements
   - Add FX, 
